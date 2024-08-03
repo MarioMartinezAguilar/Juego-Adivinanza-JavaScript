@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    margin:0;
+    background-color: rgba(203, 207, 207, 0.685);
+  }
+  
+  h1 {
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 22px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #0e12f3;
+    color: white;
+    border: none;
+    font-size: 22px;
+    cursor: pointer;
+  }
+  
+  #mensaje {
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    margin-top: 20px;
+  }
+
+  .Introduce{
+    font-size: 30px;
+  }
+
+  footer{
+    background-color: #333;
+    color:rgb(83, 243, 9);
+    padding: 10x;
+    margin:0;
+    text-align: center;
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    font-size: 23px;
+    font-family:serif;
+  }
